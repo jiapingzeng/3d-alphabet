@@ -1,5 +1,5 @@
 # 3dalphabet
-3D printable (uppercase) alphanumeric characters in Overpass font
+3D printable (uppercase) alphanumericals in Overpass font
 
 # Details
 - Dimensions: 100px font size extruded with 5mm height, simply scale to your desired size in your slicer program
