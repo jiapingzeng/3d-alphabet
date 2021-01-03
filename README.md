@@ -1,4 +1,4 @@
-# 3dalphabet
+# 3d-alphabet
 3D printable (uppercase) alphanumericals in Overpass font
 
 # Details
